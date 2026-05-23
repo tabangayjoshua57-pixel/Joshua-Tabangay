@@ -1,7 +1,6 @@
 # Joshua-Tabangay
 **" it's me Eng.Joshua Tabangay This is my Portfolio"**
 
-Hobbies: 🏋‍♂️Gymrat playing Basketball 🏀and Volleyball🏐
 
 **"Manamoc Cuyo palawan"**
 
@@ -38,6 +37,10 @@ Educational Goals such as completing a degree
 
 To Become An Engineer
 
+##  Hobbies
+
+🏋‍♂️Gymrat playing Basketball 🏀and Volleyball🏐
+
 ## Favorite Food 
 
 Bicol Express
@@ -48,7 +51,7 @@ Travel to The Space
 
 ## Personal Development
 
-Discover your Spirituality
+Discover My Spirituality
 
 
 
