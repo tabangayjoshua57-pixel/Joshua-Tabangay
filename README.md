@@ -30,7 +30,7 @@ LED blinking project using C++.
 
 ESP32 Expansion board ### PCB Design Practice Created PCB layouts using EasyEDA., Create Schematic using EasyEDA.
 
-## Personal
+## Personal🧒
 Educational Goals such as completing a degree
 
 ##  Career👷
@@ -41,7 +41,7 @@ To Become An Engineer
 
 🏋‍♂️Gymrat playing Basketball 🏀and Volleyball🏐
 
-## Favorite Food 
+## Favorite Food🍜
 
 Bicol Express
 
