@@ -4,6 +4,29 @@
 
 **"Manamoc Cuyo palawan"**
 
+## Personal🧒
+Educational Goals such as completing a degree
+
+##  Career👷
+
+To Become An Engineer
+
+##  Hobbies
+
+🏋‍♂️Gymrat playing Basketball 🏀and Volleyball🏐
+
+## Favorite Food🍜
+
+Bicol Express
+
+## TraveL👨‍🚀
+
+Travel to The Space
+
+## Personal Development
+
+Discover My Spirituality
+
 
 | Role | institution |
 |------|-------------|
@@ -30,28 +53,7 @@ LED blinking project using C++.
 
 ESP32 Expansion board ### PCB Design Practice Created PCB layouts using EasyEDA., Create Schematic using EasyEDA.
 
-## Personal🧒
-Educational Goals such as completing a degree
 
-##  Career👷
-
-To Become An Engineer
-
-##  Hobbies
-
-🏋‍♂️Gymrat playing Basketball 🏀and Volleyball🏐
-
-## Favorite Food🍜
-
-Bicol Express
-
-## TraveL👨‍🚀
-
-Travel to The Space
-
-## Personal Development
-
-Discover My Spirituality
 
 
 
